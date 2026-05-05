@@ -1,6 +1,6 @@
 <!-- Banner -->
 <h1 align="center">
-  <img src="https://files.catbox.moe/gx1ipj.jpg" width="700" alt="𝐕𝐈𝐏 𝐁𝐎𝐓"/>
+  <img src="https://api.dix.lat/media2/1777965748931.jpg" width="700" alt="𝐕𝐈𝐏 𝐁𝐎𝐓"/>
   <br>
   🗡️ 𝐕𝐈𝐏 𝐁𝐎𝐓 🗡️
 </h1>
